@@ -23,7 +23,7 @@
     "kss": "2.4.0",
     "livereload": "^0.9.3",
     "open-browser-webpack-plugin": "0.0.5",
-    "postcss-cli": "4.1.1",
+    "postcss-cli": "11.0.0",
     "prettier": "1.11.1",
     "sass-loader": "6.0.6",
     "sassdoc": "^2.7.4",
